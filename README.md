@@ -1,5 +1,3 @@
-Below is my current README.md
-
 # DataFrames.jl-Exercises
 
 This repository is inspired by the [Pandas exercises](https://github.com/guipsamora/pandas_exercises) repository. While the data and structure remain the same, the key distinction lies in this repository's focus on demonstrating how to perform data engineering, data cleaning, and data visualization tasks. All exercises are adapted for [Julia language](https://julialang.org/) using the [DataFrames.jl](https://dataframes.juliadata.org/stable/) library.
